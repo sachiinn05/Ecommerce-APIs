@@ -48,13 +48,7 @@ npm run dev
 | POST   | `/cart` | Add item to cart |
 | DELETE | `/cart/:id` | Remove item from cart |
 
-## Environment Variables
-Create a `.env` file in the root directory and define:
-```env
-PORT=5000
 
-JWT_SECRET=your_secret_key
-```
 
 ## API Documentation
 Swagger documentation is available at:
