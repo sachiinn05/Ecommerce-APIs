@@ -56,11 +56,7 @@ Swagger documentation is available at:
 http://localhost:5000/api-docs
 ```
 
-## Live Host
-Access the live API at:
-```
-[Live API Link](your_live_host_url)
-```
+
 
 ## Contact Me
 For any queries or support, feel free to reach out:
